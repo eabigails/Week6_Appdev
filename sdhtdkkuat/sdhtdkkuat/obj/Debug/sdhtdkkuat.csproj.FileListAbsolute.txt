@@ -1,0 +1,12 @@
+C:\Users\surab\source\repos\sdhtdkkuat\sdhtdkkuat\obj\Debug\sdhtdkkuat.csproj.AssemblyReference.cache
+C:\Users\surab\source\repos\sdhtdkkuat\sdhtdkkuat\obj\Debug\sdhtdkkuat.csproj.SuggestedBindingRedirects.cache
+C:\Users\surab\source\repos\sdhtdkkuat\sdhtdkkuat\obj\Debug\sdhtdkkuat.Properties.Resources.resources
+C:\Users\surab\source\repos\sdhtdkkuat\sdhtdkkuat\obj\Debug\sdhtdkkuat.csproj.GenerateResource.cache
+C:\Users\surab\source\repos\sdhtdkkuat\sdhtdkkuat\obj\Debug\sdhtdkkuat.csproj.CoreCompileInputs.cache
+C:\Users\surab\source\repos\sdhtdkkuat\sdhtdkkuat\bin\Debug\sdhtdkkuat.exe.config
+C:\Users\surab\source\repos\sdhtdkkuat\sdhtdkkuat\bin\Debug\sdhtdkkuat.exe
+C:\Users\surab\source\repos\sdhtdkkuat\sdhtdkkuat\bin\Debug\sdhtdkkuat.pdb
+C:\Users\surab\source\repos\sdhtdkkuat\sdhtdkkuat\obj\Debug\sdhtdkkuat.exe
+C:\Users\surab\source\repos\sdhtdkkuat\sdhtdkkuat\obj\Debug\sdhtdkkuat.pdb
+C:\Users\surab\source\repos\sdhtdkkuat\sdhtdkkuat\obj\Debug\sdhtdkkuat.Form1.resources
+C:\Users\surab\source\repos\sdhtdkkuat\sdhtdkkuat\obj\Debug\sdhtdkkuat.Form2.resources
